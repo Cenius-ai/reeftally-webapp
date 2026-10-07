@@ -1,0 +1,14 @@
+# ReefTally runtime dependencies: NONE.
+#
+# The tool ships as a single standard-library-only Python file (reeftally.py) and
+# imports nothing outside the interpreter: argparse, json, csv, pathlib, datetime,
+# os, sys, tempfile. There is therefore nothing to fetch and `pip install -r
+# requirements.txt` is a deliberate no-op that works offline.
+#
+# Core requirement: Python 3.8 or newer (see INSTALL.md).
+#
+# Test suite: the developer smoke suite is standard-library `unittest` and needs
+# no runner package:
+#     python3 -m unittest test_reeftally
+# It is also collected by pytest if that happens to be installed:
+#     pytest -q

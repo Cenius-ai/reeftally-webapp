@@ -1,0 +1,19 @@
+# Python bytecode and build output
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# Environment files and virtualenvs
+.env
+.venv/
+venv/
+
+# Local scratch output from `report --csv`
+out/
+*.tmp
+
+# Test runner cache
+.pytest_cache/

@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reeftally"
+version = "1.0.0"
+description = "Coral transect quadrat counter, bleaching percentage calculator and species abundance log."
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+keywords = ["coral", "reef", "transect", "quadrat", "bleaching", "survey", "cli"]
+classifiers = [
+    "Environment :: Console",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+
+[project.scripts]
+reeftally = "reeftally:main"
+
+[tool.setuptools]
+py-modules = ["reeftally"]

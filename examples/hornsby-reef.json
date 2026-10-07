@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "site": "Hornsby Reef",
+  "date": "2024-06-01",
+  "observer": "R. Okafor",
+  "depth_m": 6.0,
+  "transect_length_m": 10.0,
+  "created_at": "2026-10-07T21:23:15Z",
+  "updated_at": "2026-10-07T21:23:17Z",
+  "quadrats": [
+    {
+      "number": 1,
+      "label": null,
+      "substrate": {
+        "hard": 12,
+        "sand": 3
+      },
+      "coral_condition": {
+        "healthy": 8,
+        "pale": 1,
+        "bleached": 3,
+        "dead": 0
+      },
+      "species": {
+        "Acro": 6,
+        "Poci": 4
+      },
+      "notes": "starter colonies, one turbo snail scar",
+      "recorded_at": "2026-10-07T21:23:16Z"
+    },
+    {
+      "number": 2,
+      "label": null,
+      "substrate": {
+        "hard": 9,
+        "rubble": 6
+      },
+      "coral_condition": {
+        "healthy": 2,
+        "pale": 1,
+        "bleached": 4,
+        "dead": 1
+      },
+      "species": {
+        "Acro": 3,
+        "Monti": 2
+      },
+      "notes": null,
+      "recorded_at": "2026-10-07T21:23:16Z"
+    },
+    {
+      "number": 3,
+      "label": null,
+      "substrate": {
+        "hard": 14,
+        "algae": 2
+      },
+      "coral_condition": {
+        "healthy": 11,
+        "pale": 2,
+        "bleached": 1,
+        "dead": 0
+      },
+      "species": {
+        "Acro": 7,
+        "Poci": 5,
+        "Por": 2
+      },
+      "notes": null,
+      "recorded_at": "2026-10-07T21:23:16Z"
+    },
+    {
+      "number": 4,
+      "label": null,
+      "substrate": {
+        "hard": 6,
+        "sand": 8,
+        "rubble": 2
+      },
+      "coral_condition": {
+        "healthy": 0,
+        "pale": 0,
+        "bleached": 2,
+        "dead": 4
+      },
+      "species": {
+        "Monti": 1
+      },
+      "notes": "fully bleached patch on dead substrate",
+      "recorded_at": "2026-10-07T21:23:16Z"
+    },
+    {
+      "number": 5,
+      "label": null,
+      "substrate": {
+        "hard": 11,
+        "soft": 2,
+        "algae": 3
+      },
+      "coral_condition": {
+        "healthy": 9,
+        "pale": 3,
+        "bleached": 0,
+        "dead": 0
+      },
+      "species": {
+        "Acro": 5,
+        "Monti": 4
+      },
+      "notes": null,
+      "recorded_at": "2026-10-07T21:23:16Z"
+    },
+    {
+      "number": 6,
+      "label": null,
+      "substrate": {
+        "hard": 13,
+        "rubble": 1
+      },
+      "coral_condition": {
+        "healthy": 7,
+        "pale": 2,
+        "bleached": 2,
+        "dead": 1
+      },
+      "species": {
+        "Acro": 4,
+        "Poci": 3,
+        "Por": 1
+      },
+      "notes": null,
+      "recorded_at": "2026-10-07T21:23:16Z"
+    }
+  ],
+  "species_names": {
+    "Acro": "Acropora",
+    "Poci": "Pocillopora damicornis",
+    "Monti": "Montipora cf. digitata",
+    "Por": "Porites lobata"
+  }
+}
