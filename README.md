@@ -43,7 +43,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-A self-contained Full-stack app project (24 files): top-level directories include `examples/`. `install.sh` provisions dependencies and seeds demo data so the app starts with something real to explore. Step-by-step setup guide: [`INSTALL.md`](INSTALL.md).
+A self-contained Full-stack app project (14 files): top-level directories include `examples/`. `install.sh` provisions dependencies and seeds demo data so the app starts with something real to explore. Step-by-step setup guide: [`INSTALL.md`](INSTALL.md).
 
 ## Usage guide
 
